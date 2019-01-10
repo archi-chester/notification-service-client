@@ -1,1 +1,1 @@
-# notification-service-client
+# Клиент к сервису уведомлений
